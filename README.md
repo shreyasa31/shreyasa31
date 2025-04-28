@@ -48,10 +48,6 @@ AWS (EC2, S3, Lambda) | GCP (Compute Engine, Cloud Storage, Cloud Functions) | D
 **ML Libraries:**  
 NumPy | Pandas | Keras | TensorFlow | Scikit-Learn | Matplotlib | OpenAI API | Hugging Face
 
-## 📈 GitHub Stats
-
-![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyakamath&show_icons=true&theme=radical)
-
 ---
 
 > "Stay curious, stay resilient, keep building — that's how great engineers are made."
