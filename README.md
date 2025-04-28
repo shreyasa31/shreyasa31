@@ -29,7 +29,7 @@ I believe creativity fuels better engineering, enabling me to think outside the 
 I'm always open to exciting collaborations and new opportunities.  
 Let's connect!
 
-[LinkedIn](https://www.linkedin.com/in/shreyakamath31) • [Gmail](mailto:shreyasa31@gmail.com) • [Portfolio](#) (Coming Soon!)
+[LinkedIn](https://www.linkedin.com/in/shreyakamath31) • [Gmail](mailto:kamathshreyasa31@gmail.com) • [Portfolio](#) (Coming Soon!)
 
 ## 💻 Technologies & Tools
 
