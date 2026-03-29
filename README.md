@@ -31,11 +31,6 @@ Let's connect!
 
 [LinkedIn](https://www.linkedin.com/in/shreyakamath31) • [Gmail](mailto:kamathshreyasa31@gmail.com) • [Portfolio](#) (Coming Soon!)
 
-## 📈 GitHub Stats
-
-![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyasa31&show_icons=true&theme=radical&hide_title=false&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasa31&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyasa31&theme=radical&hide_border=true)
 
 ## 💻 Technologies & Tools
 
